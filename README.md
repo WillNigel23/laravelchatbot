@@ -29,11 +29,7 @@
 
 Basic chatbot built with Laravel and HTMX.
 
-<div align="center">
-    <video width="640" height="360" controls>
-      <source src="https://www.loom.com/share/345a23cd021b4d439621bb9747c01833?sid=2c2f7fa2-dde7-429a-afca-b41114edabae" type="video/mp4">
-    </video>
-</div>
+[![Demo Preview](https://cdn.loom.com/sessions/thumbnails/345a23cd021b4d439621bb9747c01833-00001.mp4#t=0.1)](https://www.loom.com/share/345a23cd021b4d439621bb9747c01833?sid=2c2f7fa2-dde7-429a-afca-b41114edabae)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
